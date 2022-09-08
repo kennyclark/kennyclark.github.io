@@ -25,7 +25,7 @@
     {
       "id": "background",
       "type": "background",
-      "paint": {"background-color": "rgba(128, 166, 203, 1)"}
+      "paint": {"background-color": "rgba(105, 105, 105, 1)"}
     },
     {
       "id": "landcover_wood",
